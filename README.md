@@ -26,10 +26,3 @@ How to Play
 4. If a player rolls any other number, they can add that number to their turn total and choose to roll again or hold.
 5. If a player chooses to hold, their turn total is added to their overall score, and the turn passes to the next player.
 6. The first player to reach the target score (default is 100) wins the game.
-
-Contributing
-#Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request.
-
-Acknowledgments
-#Inspired by the classic Pig dice game.
-#Thanks to MDN Web Docs for providing great resources on web development.
