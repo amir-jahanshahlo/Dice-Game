@@ -5,7 +5,6 @@
 The Pig Game is a classic dice game where players take turns to roll a die and accumulate points. The objective is to be the first player to reach a predetermined number of points. The game is simple yet engaging, making it a great choice for family and friends.
 
 ## Features
-
 - **Two-player mode:** Play against a friend or family member.
 - **Rolling dice:** Players can roll a die to accumulate points.
 - **Hold option:** Players can choose to hold their points and end their turn.
@@ -13,7 +12,6 @@ The Pig Game is a classic dice game where players take turns to roll a die and a
 - **User-friendly interface:** Easy-to-use and intuitive design.
 
 ## Technologies Used
-
 - HTML
 - CSS
 - JavaScript
