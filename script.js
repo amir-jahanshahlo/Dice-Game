@@ -29,7 +29,7 @@ const init = function () {
   player0.classList.remove("player--winner");
   player1.classList.remove("player--winner");
   player0.classList.add("player--active");
-  player0.classList.remove("player--active");
+  player1.classList.remove("player--active");
 };
 init();
 
